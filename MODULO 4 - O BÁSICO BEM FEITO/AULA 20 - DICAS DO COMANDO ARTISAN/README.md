@@ -4,4 +4,4 @@ Foi ensinado a ver todos os comandos que o comando `artisan` pode executar, digi
 
 ```
 php artisan list    // ou sail artisan list
-```
+``` 
