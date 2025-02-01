@@ -1,0 +1,3 @@
+# Aula 24 - Blade template - Criando view
+
+Foi ensinado ...
